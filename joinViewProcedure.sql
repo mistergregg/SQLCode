@@ -57,3 +57,5 @@ from customer;
 -- lightning bolt next to it to execute it
 -- To create a new one, right click on Store Procedure
 -- click create new procedure
+-- to execute it just type call then the name
+call getAll_Actors;
